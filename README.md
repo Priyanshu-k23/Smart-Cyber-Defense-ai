@@ -6,7 +6,6 @@ AI powered system that detects and explains cyber threats.
 - Phishing detection
 - Malicious URL detection
 - Deepfake detection
-- Prompt injection detection
 - Suspicious login analysis
 
 ## Tech Stack
